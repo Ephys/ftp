@@ -32,7 +32,7 @@
     "check-engines": "^1.5.0",
     "classnames": "^2.2.6",
     "concurrently": "^5.1.0",
-    "electron": "^8.2.1",
+    "electron": "^9.4.0",
     "eslint": "^6.8.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
